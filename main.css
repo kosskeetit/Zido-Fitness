@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*about section style*/
+#about{
+    text-align: center;
+    padding: 50px;
+    background-image: url("images/undraw_healthy_habit_bh5w.svg");
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+#about h1{
+    margin-top: 100px;
+}
+
+/*footer style*/
+#footer{
+    color: #ffffff;
+    background-color: #000000;
+    padding: 50px 50px 20px 50px;
+}
+#footer h3{
+    text-align: center;
+}
+#footer #text-left{
+    text-align: justify;
+}
+#footer #text-center a{
+    color: white;
+    display: block;
+    text-align: center;
+}
+#footer #text-center a:hover{
+    color: #bec2b5;
+    text-decoration: none;
+}
+#footer #text-right{
+    text-align: center;
+}
+#footer #text-right a{
+    color: white;
+    padding: 5px;
+}
+#footer #text-right a:hover {
+    color: #bec2b5;
+    text-decoration: none;
+}
+#footer #contact_btn{
+    margin-top: 20px;
+}
